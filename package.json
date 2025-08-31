@@ -1,7 +1,7 @@
 {
   "name": "branch-management-tool",
   "version": "1.0.0",
-  "description": "Ein einfaches Tool zur Verwaltung von Git-Branches.",
+  "description": "A simple tool for managing Git branches.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
