@@ -1,5 +1,10 @@
 # Ignored directories and files
 
+# Node.js packages
 node_modules/
+
+# Distribution folder
 dist/
+
+# Environment variables file
 .env
