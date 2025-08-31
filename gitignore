@@ -1,3 +1,5 @@
+# Ignorierte Verzeichnisse und Dateien
+
 node_modules/
 dist/
 .env
